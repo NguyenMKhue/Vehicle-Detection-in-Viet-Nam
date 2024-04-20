@@ -18,16 +18,4 @@ The project is organized into specific folders to maintain a clean and efficient
   - `Vehicle_Detector.ipynb`: Notebook that includes model training and detection for vehicles.
   - `preprocess_vehicle.ipynb`: Notebook for preprocessing vehicle data.
   - `train_val_test_splitting.ipynb`: Splits the vehicle data into training, validation, and test sets.
-- `dataset/`: Directory containing datasets used in the project.
-  - `test.csv`: Sample testing dataset.
-  - `test_interpolated.csv`: Interpolated dataset for model evaluation.
 
-## Getting Started
-### Prerequisites
-- Python 3.8 or higher
-- Required Python packages: numpy, pandas, matplotlib, scikit-learn, torch, torchvision
-
-### Installation
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/vehicle-data-processing.git
