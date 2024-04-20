@@ -1,0 +1,6 @@
+bike
+car
+truck
+bus
+tricycle
+container

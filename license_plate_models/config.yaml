@@ -1,0 +1,8 @@
+train: /content/workspace/plate_dataset/images/train
+val: /Users/khuenguyen/Desktop/Vehicle_Detection/license_plate_models/plate_dataset/images/test
+test: /content/workspace/plate_dataset/images/test
+
+nc: 1
+names: [
+  0: license_plate
+]
